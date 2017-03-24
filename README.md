@@ -2,7 +2,7 @@
 
 This is playground for all tensorflow tutorials and nano projects. 
 
-### 1. Linear Regression with TensorFlow
+### 1. [Linear Regression with TensorFlow] (https://github.com/pankymathur/tensorflow-playground/blob/master/tensorflow-linear-regression.ipynb)
 
 ### Install
 I am using Conda to install TensorFlow. You might already have a TensorFlow environment, but please check below to make sure you have all the necessary packages.
