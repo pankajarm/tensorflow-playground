@@ -31,3 +31,8 @@ activate tensorflow-playground
 conda install pandas matplotlib jupyter notebook scipy scikit-learn
 pip install tensorflow
 ```
+After creating conda environment, clone this repository on your local machine, cd to that directory in your terminal or shell window and then run following command
+
+```
+jupyter notebook
+```
