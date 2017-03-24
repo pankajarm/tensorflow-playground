@@ -19,7 +19,7 @@ pip install tensorflow
 ```
 
 ### Windows
-And installing on Windows. In your console or Anaconda shell,
+And installing on Windows. In your console or Anaconda shell:
 
 ```
 conda create -n tensorflow-playground python=3.5
