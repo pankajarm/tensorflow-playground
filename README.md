@@ -2,8 +2,10 @@
 
 This is playground for all tensorflow tutorials and nano projects. 
 
-1. [Linear Regression with TensorFlow](https://github.com/pankymathur/tensorflow-playground/blob/master/tensorflow-linear-regression.ipynb)
-2. [Logistic Regression with TensorFlow]()
+1. [Linear Regression with sample data](https://github.com/pankymathur/tensorflow-playground/blob/master/tensorflow-linear-regression.ipynb)
+2. [Logistic Regression with MNIST]()
+3. [Neural Network with MNIST]()
+4. Convutional Neural Network (Upcoming..)
 
 ### Install
 I am using [Conda](https://www.continuum.io/anaconda-overview) to install TensorFlow. You might already have a TensorFlow environment, but please check below to make sure you have all the necessary packages.
