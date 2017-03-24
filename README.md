@@ -1,6 +1,6 @@
-# tensorflow-playground
+# Tensorflow Playground
 
-This is playground for all tensorflow tutorials and nano projects. 
+This is the playground for basics but some of most important tensorflow tutorials and nano projects, all coded with care...
 
 1. [Linear Regression with sample data](https://github.com/pankymathur/tensorflow-playground/blob/master/tensorflow-linear-regression.ipynb)
 2. [Logistic Regression with MNIST]()
