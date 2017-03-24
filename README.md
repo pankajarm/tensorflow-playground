@@ -11,14 +11,20 @@ I am using Conda to install TensorFlow. You might already have a TensorFlow envi
 Run the following commands to setup your environment:
 
 conda create -n tensorflow-playground python=3.5
+
 source activate tensorflow-playground
+
 conda install pandas matplotlib jupyter notebook scipy scikit-learn
+
 pip install tensorflow
 
 ### Windows
 And installing on Windows. In your console or Anaconda shell,
 
 conda create -n tensorflow-playground python=3.5
+
 activate tensorflow-playground
+
 conda install pandas matplotlib jupyter notebook scipy scikit-learn
+
 pip install tensorflow
