@@ -3,7 +3,7 @@
 This is the playground for basics but some of most important tensorflow tutorials and nano projects, all coded with care...
 
 1. [Linear Regression with sample data](https://github.com/pankymathur/tensorflow-playground/blob/master/tensorflow-linear-regression.ipynb)
-2. [Logistic Regression with MNIST]()
+2. [Logistic Regression with MNIST](https://github.com/pankymathur/tensorflow-playground/blob/master/Logistic-Regression.ipynb)
 3. [Neural Network with MNIST]()
 4. Convutional Neural Network (Upcoming..)
 
