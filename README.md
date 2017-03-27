@@ -4,8 +4,9 @@ This is the playground for basics but some of most important tensorflow tutorial
 
 1. [Linear Regression with sample data](https://github.com/pankymathur/tensorflow-playground/blob/master/tensorflow-linear-regression.ipynb)
 2. [Logistic Regression with MNIST](https://github.com/pankymathur/tensorflow-playground/blob/master/Logistic-Regression.ipynb)
-3. [Neural Network with MNIST]()
-4. Convutional Neural Network (Upcoming..)
+3. [Multilayer Perceptron with MNIST](https://github.com/pankymathur/tensorflow-playground/blob/master/Multilayer_Perceptron.ipynb)
+4. [Kaggle MNIST with Multilayer Perceptron] (https://github.com/pankymathur/tensorflow-playground/blob/master/Kaggle-MNIST-Multilayer-Perceptron.ipynb)
+5. Convutional Neural Network (upcoming..)
 
 ### Install
 I am using [Conda](https://www.continuum.io/anaconda-overview) to install TensorFlow. You might already have a TensorFlow environment, but please check below to make sure you have all the necessary packages. If you have never used Conda environments before, please go through my other tutorial [What is Anaconda and Why should I bother about it?](http://pankajmathur.com/what-is-anaconda-and-why-should-i-bother-about-it/)
