@@ -5,7 +5,7 @@ This is the playground for basics but some of most important tensorflow tutorial
 1. [Linear Regression with sample data](https://github.com/pankymathur/tensorflow-playground/blob/master/tensorflow-linear-regression.ipynb)
 2. [Logistic Regression with MNIST](https://github.com/pankymathur/tensorflow-playground/blob/master/Logistic-Regression.ipynb)
 3. [Multilayer Perceptron with MNIST](https://github.com/pankymathur/tensorflow-playground/blob/master/Multilayer_Perceptron.ipynb)
-4. [Kaggle MNIST with Multilayer Perceptron] (https://github.com/pankymathur/tensorflow-playground/blob/master/Kaggle-MNIST-Multilayer-Perceptron.ipynb)
+4. [Kaggle MNIST with Multilayer Perceptron](https://github.com/pankymathur/tensorflow-playground/blob/master/Kaggle-MNIST-Multilayer-Perceptron.ipynb)
 5. Convutional Neural Network (upcoming..)
 
 ### Install
